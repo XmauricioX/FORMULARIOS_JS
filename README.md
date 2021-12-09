@@ -7,4 +7,4 @@
 
 ## Preview del desafio finalizado
 
-<img src="">
+<img src="https://github.com/XmauricioX/FORMULARIOS_JS/blob/main/preciew1.PNG">
